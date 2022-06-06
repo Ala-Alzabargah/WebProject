@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC022-Verify Live Stream Player After Stream Event is Over GEA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4eecaad5-2333-46c6-a29e-c0ed31ddb227</testCaseGuid>
+</TestCaseEntity>

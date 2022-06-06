@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shahidUltimatePrice</name>
+   <tag></tag>
+   <elementGuidId>81ed3914-8a72-4d1a-98ec-dad16f7a7ee5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(@class,'PackageSelectionUpgrade_price__')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(@class,'PackageSelectionUpgrade_price__')])[2]</value>
+      <webElementGuid>781ebe73-05c6-414e-88ad-812e922e5109</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

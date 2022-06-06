@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>VIPImage</name>
+   <tag></tag>
+   <elementGuidId>02a7bf30-09f3-4d9e-9492-8c67cba3b6e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@src=&quot;https://shahid-static.s3.us-east-1.amazonaws.com/shahid-subscription-config/GEA-PRD/VIP-WEB.png&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@src=&quot;https://shahid-static.s3.us-east-1.amazonaws.com/shahid-subscription-config/GEA-PRD/VIP-WEB.png&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

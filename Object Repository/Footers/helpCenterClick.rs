@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>helpCenterClick</name>
+   <tag></tag>
+   <elementGuidId>4599639b-9f31-4b6d-b725-f84a095f60ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[./a[contains(@href,'/help.shahid.mbc.net')]]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[./a[contains(@href,'/help.shahid.mbc.net')]]</value>
+   </webElementProperties>
+</WebElementEntity>

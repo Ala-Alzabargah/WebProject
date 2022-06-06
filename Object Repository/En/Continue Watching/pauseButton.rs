@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pauseButton</name>
+   <tag></tag>
+   <elementGuidId>583a4e85-bcf3-41c5-8510-1a4dd11d8a6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.ImageButton[contains(@resource-id,'exo_pause')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.ImageButton[contains(@resource-id,'exo_pause')]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hdIcon</name>
+   <tag></tag>
+   <elementGuidId>c009699e-c636-4201-bb28-a6cf84205779</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_  -  1,  1 - Shahid.net/img_VIP _desktopUpsellPlayer_icon__gvvNl.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.desktopUpsellPlayer_icon__gvvNl</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_  -  1,  1 - Shahid.net/img_VIP _desktopUpsellPlayer_icon__gvvNl.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='upsell-container']/div/div[2]/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desktopUpsellPlayer_icon__gvvNl</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://shahid-static.s3.us-east-1.amazonaws.com/shahid-subscription-config/EV-PRD/HeaderIcons/FHD.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>بتقنية HD </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;upsell-container&quot;)/div[@class=&quot;desktopUpsellPlayer_container__3dwPf&quot;]/div[@class=&quot;desktopUpsellPlayer_contentContainer__EKzHG&quot;]/div[@class=&quot;desktopUpsellPlayer_iconsContainer__2ysWB&quot;]/div[@class=&quot;desktopUpsellPlayer_iconWrapper__1aj0V&quot;]/img[@class=&quot;desktopUpsellPlayer_icon__gvvNl&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='upsell-container']/div/div[2]/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='بتقنية HD ']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>

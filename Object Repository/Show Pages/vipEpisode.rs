@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>vipEpisode</name>
+   <tag></tag>
+   <elementGuidId>9837fa13-3b1d-4d05-bcdf-7c5a79da0628</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'MediaItem_thumbnail__')]//div[contains(@class,'plusTag_')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'MediaItem_thumbnail__')]//div[contains(@class,'plusTag_')]</value>
+   </webElementProperties>
+</WebElementEntity>

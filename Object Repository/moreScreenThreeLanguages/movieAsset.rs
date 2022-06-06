@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>movieAsset</name>
+   <tag></tag>
+   <elementGuidId>36be16f0-b0c8-4e24-b9f0-b2d13d1617b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>((//h2[contains(@class,'carousel-title')])[1]//following::a[contains(@class,'PortraitItem')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>((//h2[contains(@class,'carousel-title')])[1]//following::a[contains(@class,'PortraitItem')])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

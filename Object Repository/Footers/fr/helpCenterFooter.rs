@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>helpCenterFooter</name>
+   <tag></tag>
+   <elementGuidId>154e1c81-ac48-44ea-b4d9-b8446a240c78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li//a[contains(text(),'Assistance')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li//a[contains(text(),'Assistance')]</value>
+   </webElementProperties>
+</WebElementEntity>

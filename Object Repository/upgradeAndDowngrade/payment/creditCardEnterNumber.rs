@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>creditCardEnterNumber</name>
+   <tag></tag>
+   <elementGuidId>1ed09b05-0af9-4e7f-9230-ae8ee00ffb50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@src=&quot;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgdmlld0JveD0iMCAwIDI1IDI1Ij4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPHBhdGggZD0iTTAgMEgyNFYyNEgweiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLjAwMSAuMzg4KSIvPgogICAgICAgIDxwYXRoIGZpbGw9IiNBM0FGQzIiIGQ9Ik0yMCA0SDRjLTEuMTAzIDAtMiAuODk3LTIgMnYxMmMwIDEuMTAzLjg5NyAyIDIgMmgxNmMxLjEwMyAwIDItLjg5NyAyLTJWNmMwLTEuMTAzLS44OTctMi0yLTJ6TTQgNmgxNnYySDRWNnptMTYuMDAxIDZsLjAwMSA2SDR2LTZoMTYuMDAxek0xMiAxNEg2djJoNnYtMnoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC4wMDEgLjM4OCkiLz4KICAgIDwvZz4KPC9zdmc+Cg==&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@src=&quot;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNSIgdmlld0JveD0iMCAwIDI1IDI1Ij4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPHBhdGggZD0iTTAgMEgyNFYyNEgweiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLjAwMSAuMzg4KSIvPgogICAgICAgIDxwYXRoIGZpbGw9IiNBM0FGQzIiIGQ9Ik0yMCA0SDRjLTEuMTAzIDAtMiAuODk3LTIgMnYxMmMwIDEuMTAzLjg5NyAyIDIgMmgxNmMxLjEwMyAwIDItLjg5NyAyLTJWNmMwLTEuMTAzLS44OTctMi0yLTJ6TTQgNmgxNnYySDRWNnptMTYuMDAxIDZsLjAwMSA2SDR2LTZoMTYuMDAxek0xMiAxNEg2djJoNnYtMnoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC4wMDEgLjM4OCkiLz4KICAgIDwvZz4KPC9zdmc+Cg==&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

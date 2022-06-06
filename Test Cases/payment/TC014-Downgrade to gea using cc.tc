@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC014-Downgrade To Gea Using CC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7eadf88d-7b46-4adc-b956-4a191d16d535</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC010-Verify Device Management Page VIP User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d44f5523-5a45-423d-8484-eec78d74d8bc</testCaseGuid>
+</TestCaseEntity>

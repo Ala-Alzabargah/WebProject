@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC012-Verify Exit Kids Profile For Site Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc5abd39-d431-474b-a5b8-08f2011d6feb</testCaseGuid>
+</TestCaseEntity>

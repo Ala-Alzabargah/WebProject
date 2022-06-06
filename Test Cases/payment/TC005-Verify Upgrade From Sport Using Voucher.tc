@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005-Verify Upgrade From Sport Using Voucher</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46814d2c-d41f-4a80-ba38-3f9afc9ac5b6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>upgrdateToPlatinumButton</name>
+   <tag></tag>
+   <elementGuidId>7ef7072d-151a-4b23-88b6-ea8c5dfc960c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(@class,'PackageSelectionUpgrade_selectedButton_')])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(@class,'PackageSelectionUpgrade_selectedButton_')])</value>
+   </webElementProperties>
+</WebElementEntity>

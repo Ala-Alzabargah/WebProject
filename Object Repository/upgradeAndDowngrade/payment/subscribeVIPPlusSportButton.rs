@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>subscribeVIPPlusSportButton</name>
+   <tag></tag>
+   <elementGuidId>02a6a0fd-aa12-457e-a3fa-24c39c71e267</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(@class,'PackageSelectionUpgrade_selectedButton_')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(@class,'PackageSelectionUpgrade_selectedButton_')])[2]</value>
+   </webElementProperties>
+</WebElementEntity>

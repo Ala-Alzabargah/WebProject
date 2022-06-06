@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>kidsProfile</name>
+   <tag></tag>
+   <elementGuidId>06cb29f2-c483-4642-ac8a-d6cadbc7ca45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(@class,'AvatarBox')]//following::img[contains(@src,'kids')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(@class,'AvatarBox')]//following::img[contains(@src,'kids')])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>profileImage</name>
+   <tag></tag>
+   <elementGuidId>4f090efa-bf1a-4d58-adad-28710dc4e8ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[contains(@class,&quot;selectedProfileDetails_user-avatar&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[contains(@class,&quot;selectedProfileDetails_user-avatar&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

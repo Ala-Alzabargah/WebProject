@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>subscribeVIPPlusGEAButton</name>
+   <tag></tag>
+   <elementGuidId>f98eac2c-4b22-411c-9e0f-77ba8bf86c2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(@class,'PackageSelectionUpgrade_selectedButton_')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(@class,'PackageSelectionUpgrade_selectedButton_')])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

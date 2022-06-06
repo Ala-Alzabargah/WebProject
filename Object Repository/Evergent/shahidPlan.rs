@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shahidPlan</name>
+   <tag></tag>
+   <elementGuidId>e9555522-0c52-4248-af1f-864caefbf200</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[contains(@class,'SubscriptionDetails_titleProduct__')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[contains(@class,'SubscriptionDetails_titleProduct__')])[2]</value>
+      <webElementGuid>56bff70c-7213-4161-ac9b-3e33c3b83836</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

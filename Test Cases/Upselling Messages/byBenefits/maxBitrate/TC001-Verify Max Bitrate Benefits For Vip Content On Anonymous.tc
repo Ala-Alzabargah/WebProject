@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-Verify Max Bitrate Benefits For Vip Content On Anonymous</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>773f1190-dd7e-4775-a3cf-7c17b70bdb2b</testCaseGuid>
+</TestCaseEntity>

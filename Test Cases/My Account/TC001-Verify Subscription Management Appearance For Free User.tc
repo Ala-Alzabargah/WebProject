@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-Verify Subscription Management Appearance For Free User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5d8aad7-3666-46cb-861e-4322a1992e23</testCaseGuid>
+</TestCaseEntity>

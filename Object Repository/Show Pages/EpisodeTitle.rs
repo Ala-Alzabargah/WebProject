@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EpisodeTitle</name>
+   <tag></tag>
+   <elementGuidId>ed45583e-6f65-441e-8b33-b14b3cddb9b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h4[contains(@class,'MediaItem_episodesDetailsHeader')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h4[contains(@class,'MediaItem_episodesDetailsHeader')]</value>
+   </webElementProperties>
+</WebElementEntity>

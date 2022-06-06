@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Riyadh Option</name>
+   <tag></tag>
+   <elementGuidId>9413df67-173f-4d2a-8e1e-f4a23f434fc2</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Shahid/img_Other available options_PackageSelectionUpgrade_imageContainer__ZIQH0.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Shahid/img_Other available options_PackageSelectionUpgrade_imageContainer__ZIQH0.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.PackageSelectionUpgrade_imageContainer__ZIQH0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContainer']/div[2]/div[2]/div/div/div/div[2]/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PackageSelectionUpgrade_imageContainer__ZIQH0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://shahid-static.s3.us-east-1.amazonaws.com/shahid-subscription-config/GEA-PRD/RS-WEB.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>upgrade card image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContainer&quot;)/div[2]/div[@class=&quot;page-transition-enter-done&quot;]/div[@class=&quot;views_wrapper__bCSNv themeWithoutBgImage-0-2-18 themeWithoutBgImage-d1361-0-2-1413 ViewContainer_full-height__1n3L1&quot;]/div[@class=&quot;views_content__1ZjO4 views_top0__eUkUQ ViewContainer_flex__3lH7O ViewContainer_wrap-widgets__1GdpX&quot;]/div[@class=&quot;PackageSelectionUpgrade_fullscreen__1aYNn&quot;]/div[@class=&quot;PackageSelectionUpgrade_container__14TqW PackageSelectionUpgrade_ltr__qWjmJ&quot;]/div[@class=&quot;PackageSelectionUpgrade_cardContainer__3g2iv&quot;]/img[@class=&quot;PackageSelectionUpgrade_imageContainer__ZIQH0&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContainer']/div[2]/div[2]/div/div/div/div[2]/div[2]/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='upgrade card image']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img</value>
+   </webElementXpaths>
+</WebElementEntity>

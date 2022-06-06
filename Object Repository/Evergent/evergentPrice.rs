@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>evergentPrice</name>
+   <tag></tag>
+   <elementGuidId>6beefd03-400c-4c1a-aa74-baa9817df24b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[text()=''])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[text()=''])[4]</value>
+      <webElementGuid>1eec513d-2c9b-40fa-ae0e-6bdb0ed899a4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC021-Verify Live Stream Player After Stream Event is Over AVOD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec911570-00ba-4d12-afae-59f1d9beb027</testCaseGuid>
+</TestCaseEntity>

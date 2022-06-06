@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>comingSoonEpisode</name>
+   <tag></tag>
+   <elementGuidId>5e3400a1-059c-4d19-b9ac-3c3fbae73be8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'LiveMatchesTag')]//span[contains(text(),'PM')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'LiveMatchesTag')]//span[contains(text(),'PM')]</value>
+   </webElementProperties>
+</WebElementEntity>

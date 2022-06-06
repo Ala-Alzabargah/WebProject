@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sportImage</name>
+   <tag></tag>
+   <elementGuidId>51172ddf-75a4-413f-8fc0-b4f5de9d71ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@src=&quot;https://shahid-static.s3.us-east-1.amazonaws.com/shahid-subscription-config/GEA-PRD/SP-WEB.png&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@src=&quot;https://shahid-static.s3.us-east-1.amazonaws.com/shahid-subscription-config/GEA-PRD/SP-WEB.png&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

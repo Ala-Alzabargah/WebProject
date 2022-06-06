@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>settingsLink</name>
+   <tag></tag>
+   <elementGuidId>ade631df-9f69-4258-9df8-a8124cbd7fe5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(text(),'حسابي')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(text(),'حسابي')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(text(),'حسابي')]</value>
+   </webElementProperties>
+</WebElementEntity>

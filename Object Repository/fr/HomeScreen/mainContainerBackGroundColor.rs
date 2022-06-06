@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mainContainerBackGroundColor</name>
+   <tag></tag>
+   <elementGuidId>ba308121-1614-4377-90a5-f8b9e665feb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=&quot;mainContainer&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id=&quot;mainContainer&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

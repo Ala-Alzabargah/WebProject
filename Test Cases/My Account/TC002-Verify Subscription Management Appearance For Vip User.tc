@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-Verify Subscription Management Appearance For Vip User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e51f949-e603-4173-87a8-a88ad6f99702</testCaseGuid>
+</TestCaseEntity>

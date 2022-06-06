@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>monthyPriceText</name>
+   <tag></tag>
+   <elementGuidId>7fe87685-8b13-457a-b87a-0232d645211f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//p[contains(@class,'CommonSubscriptionPlanItem')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//p[contains(@class,'CommonSubscriptionPlanItem')])[2]</value>
+   </webElementProperties>
+</WebElementEntity>

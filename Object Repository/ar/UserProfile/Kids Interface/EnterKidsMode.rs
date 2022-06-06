@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EnterKidsMode</name>
+   <tag></tag>
+   <elementGuidId>0da332ee-f9d8-4d21-8ae3-62e80813840d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[contains(@class,&quot;SelectProfilePage_profile-kids-mode-text&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//p[contains(@class,&quot;SelectProfilePage_profile-kids-mode-text&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

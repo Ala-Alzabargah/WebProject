@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006-Verify Change Parental Control Pin Code For Subscribed User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d27bbc7e-3dc2-4374-9bb2-1fc04806ac6c</testCaseGuid>
+</TestCaseEntity>

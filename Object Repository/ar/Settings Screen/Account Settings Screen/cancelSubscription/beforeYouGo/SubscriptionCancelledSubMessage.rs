@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SubscriptionCancelledSubMessage</name>
+   <tag></tag>
+   <elementGuidId>cea07bdb-2696-46a3-9136-ca8397680255</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[contains(@class,&quot;sadLogo_thank-you-sub&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//p[contains(@class,&quot;sadLogo_thank-you-sub&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

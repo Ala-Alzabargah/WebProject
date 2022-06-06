@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>billingCycleText</name>
+   <tag></tag>
+   <elementGuidId>942c2aa0-f40b-47b6-acdf-6ecfad862fd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[contains(@class,'SubscriptionDetails_titleProduct__')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[contains(@class,'SubscriptionDetails_titleProduct__')])[2]</value>
+   </webElementProperties>
+</WebElementEntity>

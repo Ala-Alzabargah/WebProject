@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>linkedDeviceItem</name>
+   <tag></tag>
+   <elementGuidId>6e1a48bd-5862-4e7e-9651-cb760584e452</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'Oh-Fydx3PAUFn9ef8FJSQ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'Oh-Fydx3PAUFn9ef8FJSQ')]</value>
+   </webElementProperties>
+</WebElementEntity>

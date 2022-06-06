@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC015-Verify Exit Kids Mode For Facebook Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12acf9e2-a729-4fba-b3c9-4fd92cb3a75b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC018-Verify Add Sport Asset To Favorite From Sport Page VIP user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87d426b3-6827-4d00-8823-21d496f07e9c</testCaseGuid>
+</TestCaseEntity>

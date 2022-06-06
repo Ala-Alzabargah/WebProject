@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>couponCodeButton</name>
+   <tag></tag>
+   <elementGuidId>ca6f1aa6-e536-4777-a523-799a5ddf051e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,&quot;ManageSubscriptionInfo_show-voucher-coupon-section__&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,&quot;ManageSubscriptionInfo_show-voucher-coupon-section__&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

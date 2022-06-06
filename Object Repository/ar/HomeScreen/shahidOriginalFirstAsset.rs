@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shahidOriginalFirstAsset</name>
+   <tag></tag>
+   <elementGuidId>7b69b4d1-a16a-4cb2-a9f0-54234eb05a77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(@class,'BundleCarousel_titleContainer_')]//following::div[contains(@class,&quot;BundleItem_posterGradient&quot;)])[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(@class,'BundleCarousel_titleContainer_')]//following::div[contains(@class,&quot;BundleItem_posterGradient&quot;)])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(@class,'BundleCarousel_titleContainer_')]//following::div[contains(@class,&quot;BundleItem_posterGradient&quot;)])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

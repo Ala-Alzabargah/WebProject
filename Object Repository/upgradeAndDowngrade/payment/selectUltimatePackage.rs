@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectUltimatePackage</name>
+   <tag></tag>
+   <elementGuidId>ec201dfe-c3f3-4dac-b0c1-c7262dff05ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(@class,'PackageSelectionUpgrade_selectedButton__')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(@class,'PackageSelectionUpgrade_selectedButton__')])[2]</value>
+      <webElementGuid>1bfd4069-a753-47e4-9b3d-aac711e4c48a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

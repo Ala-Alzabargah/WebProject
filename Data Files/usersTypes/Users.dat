@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Users</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>69aae175-2085-4cbb-8704-1cc326a15130</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Free+User abdullahmbctest%40gmail.com 123456</data>
+   <data>Vip+User mbctestreg%40gmail.com 123456</data>
+   <data>Sport+User aboodtest55%40outlook.com 123456</data>
+   <data>VIP+Ultimate+User shahidvipultimate%40outlook.com 123456</data>
+   <data>GEA+User geaUserTest%40outlook.com 123456</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>User Type</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>User Name</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>Password</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

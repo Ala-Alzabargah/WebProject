@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>downgradeToVip</name>
+   <tag></tag>
+   <elementGuidId>a32e6ce3-eff7-4217-ac41-e48866c39ca8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(@class,&quot;PackageSelectionUpgrade_selectedButton&quot;)])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(@class,&quot;PackageSelectionUpgrade_selectedButton&quot;)])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

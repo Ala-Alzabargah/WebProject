@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004-Verify Seek DoubleTap</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bce76ca1-f8a6-4497-a038-9217755cadd9</testCaseGuid>
+</TestCaseEntity>

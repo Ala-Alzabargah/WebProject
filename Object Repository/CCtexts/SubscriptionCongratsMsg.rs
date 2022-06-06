@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SubscriptionCongratsMsg</name>
+   <tag></tag>
+   <elementGuidId>73b557cb-116c-44c4-97f6-2a7d731bc172</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h1[contains(@class,'SubscriptionCongrats_form-title__')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h1[contains(@class,'SubscriptionCongrats_form-title__')]</value>
+      <webElementGuid>f968d9e4-65de-4fb5-8b8d-38c7271c5546</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

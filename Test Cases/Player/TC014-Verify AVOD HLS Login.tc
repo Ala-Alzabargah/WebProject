@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC014-Verify AVOD HLS Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b64e1de1-066e-4daa-859e-eda1bcac23fa</testCaseGuid>
+</TestCaseEntity>

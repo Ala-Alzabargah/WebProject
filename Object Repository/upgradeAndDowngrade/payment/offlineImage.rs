@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>offlineImage</name>
+   <tag></tag>
+   <elementGuidId>09df7eb5-5cda-4fb2-902a-a6b59e9c25fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@src=&quot;https://shahid-static.s3.us-east-1.amazonaws.com/shahid-subscription-config/EV-PRD/HeaderIcons/Offline-download.png&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@src=&quot;https://shahid-static.s3.us-east-1.amazonaws.com/shahid-subscription-config/EV-PRD/HeaderIcons/Offline-download.png&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

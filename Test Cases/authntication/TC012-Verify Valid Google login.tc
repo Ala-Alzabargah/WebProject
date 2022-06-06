@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC012-Verify Valid Google login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2557a0b8-da32-46b4-bf53-2969612f6c8f</testCaseGuid>
+</TestCaseEntity>

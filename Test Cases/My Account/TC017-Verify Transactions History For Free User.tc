@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC017-Verify Transactions History For Free User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75fb5def-abb2-4bc8-81f7-3a24bdc7ee94</testCaseGuid>
+</TestCaseEntity>

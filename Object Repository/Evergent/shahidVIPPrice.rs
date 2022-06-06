@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>shahidVIPPrice</name>
+   <tag></tag>
+   <elementGuidId>8e80ac3e-87f2-45f2-b89e-8f787083049a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//p[contains(@class,'CommonSubscriptionPlanItem_label-main-message__')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//p[contains(@class,'CommonSubscriptionPlanItem_label-main-message__')])[1]</value>
+      <webElementGuid>2f8268fa-14cd-4f12-8daf-f1806162d1d0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

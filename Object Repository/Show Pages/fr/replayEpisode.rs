@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>replayEpisode</name>
+   <tag></tag>
+   <elementGuidId>6c46fd1c-3de3-43f1-bfe8-f4e7bf863222</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[contains(@class,'LiveMatchesTag_ltr')]//span[text()='Replay'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[contains(@class,'LiveMatchesTag_ltr')]//span[text()='Replay'])[1]</value>
+   </webElementProperties>
+</WebElementEntity>

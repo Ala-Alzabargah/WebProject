@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>watchOnTVIcon</name>
+   <tag></tag>
+   <elementGuidId>b2b93e0c-8faa-43f2-b54d-80cbc3683700</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//img[contains(@class,'desktopUpsellPlayer_icon__')])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//img[contains(@class,'desktopUpsellPlayer_icon__')])[3]</value>
+   </webElementProperties>
+</WebElementEntity>

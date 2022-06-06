@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC013-Verify Exit Kids Mode For Site Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>112af4a6-e3d5-4cb0-b868-2dad1d05f8b9</testCaseGuid>
+</TestCaseEntity>

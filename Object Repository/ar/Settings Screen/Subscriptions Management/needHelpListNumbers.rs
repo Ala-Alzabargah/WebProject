@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>needHelpListNumbers</name>
+   <tag></tag>
+   <elementGuidId>3eec1d0f-58b7-4b2d-88bf-75a1fea6ebd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'subscriptionNeedHelp_need-help-content__')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'subscriptionNeedHelp_need-help-content__')]</value>
+   </webElementProperties>
+</WebElementEntity>

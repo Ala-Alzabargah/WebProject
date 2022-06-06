@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004-Verify Subscription Management Appearance For Ultimate User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c671326-0dba-4f80-ac9b-81640a36a81b</testCaseGuid>
+</TestCaseEntity>

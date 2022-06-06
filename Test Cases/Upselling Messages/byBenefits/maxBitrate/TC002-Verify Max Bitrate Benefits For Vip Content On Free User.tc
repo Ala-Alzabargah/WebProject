@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-Verify Max Bitrate Benefits For Vip Content On Free User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1e41e19-73dd-4865-b41c-249445bc09f2</testCaseGuid>
+</TestCaseEntity>

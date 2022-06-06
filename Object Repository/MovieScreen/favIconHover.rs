@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>favIconHover</name>
+   <tag></tag>
+   <elementGuidId>ac9b2687-b641-4bfd-84fa-3c0b31b70cd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[contains(@class,&quot;MediaItemButtons_icon&quot;)])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[contains(@class,&quot;MediaItemButtons_icon&quot;)])</value>
+   </webElementProperties>
+</WebElementEntity>

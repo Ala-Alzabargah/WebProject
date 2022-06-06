@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-Verify Play A Show And Check If Added To CW Carousel For Vip User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d67c1c24-aa44-4028-8186-077e97433ed1</testCaseGuid>
+</TestCaseEntity>

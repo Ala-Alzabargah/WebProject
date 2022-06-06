@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>packagePrice</name>
+   <tag></tag>
+   <elementGuidId>0c4b7f00-e90c-469a-8807-ea1d29ba6ee0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[contains(@class,'SubscriptionDetails_titleProduct__')])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//span[contains(@class,'SubscriptionDetails_titleProduct__')])[3]</value>
+      <webElementGuid>0198874f-68ad-4b87-bf8d-d000ccd61108</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>acceptCheckbox</name>
+   <tag></tag>
+   <elementGuidId>6f11c9ff-b4ec-4b74-8960-32dcf823f3b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//i[@class='_3yLKnYXfXIzocr2ghC4FdL']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//i[@class='_3yLKnYXfXIzocr2ghC4FdL']</value>
+   </webElementProperties>
+</WebElementEntity>

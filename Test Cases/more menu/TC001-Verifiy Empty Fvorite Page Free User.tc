@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-Verifiy Empty Fvorite Page Free User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad03aa80-5e80-4739-b058-7785bc6c85a2</testCaseGuid>
+</TestCaseEntity>

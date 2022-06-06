@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-Verify Catalogue Vip Up-Sell Message For Free User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66e36491-318c-4c74-a9de-719b541822b5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list</name>
+   <tag></tag>
+   <elementGuidId>bb8f93a5-efa2-4838-a32e-94db07fea4cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ul[@class='_33OtF8lItoQOBk2POFYbGw']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ul[@class='_33OtF8lItoQOBk2POFYbGw']</value>
+   </webElementProperties>
+</WebElementEntity>

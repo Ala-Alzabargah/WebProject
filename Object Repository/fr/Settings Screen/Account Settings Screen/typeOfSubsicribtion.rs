@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>typeOfSubsicribtion</name>
+   <tag></tag>
+   <elementGuidId>853f73d0-5695-4d4a-bcbb-ad3d64247e49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//div[@class='Settings_subscriptionInfoItem__2rxy5'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//div[@class='Settings_subscriptionInfoItem__2rxy5'])[2]</value>
+   </webElementProperties>
+</WebElementEntity>

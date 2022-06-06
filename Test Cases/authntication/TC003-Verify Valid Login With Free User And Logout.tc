@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003-Verify Valid Login With Free User And Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f9d07a7-9072-4999-ad14-741fc28c35a9</testCaseGuid>
+</TestCaseEntity>

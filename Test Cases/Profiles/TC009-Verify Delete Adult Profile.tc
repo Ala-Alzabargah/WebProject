@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC009-Verify Delete Adult Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f115d299-c5c2-4d79-8ed3-8d547bbbb807</testCaseGuid>
+</TestCaseEntity>

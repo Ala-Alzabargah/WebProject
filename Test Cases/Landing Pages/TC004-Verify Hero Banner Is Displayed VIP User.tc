@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004-Verify Hero Banner Is Displayed VIP User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>516b3731-bcd7-419c-a89a-7559d08f15a4</testCaseGuid>
+</TestCaseEntity>

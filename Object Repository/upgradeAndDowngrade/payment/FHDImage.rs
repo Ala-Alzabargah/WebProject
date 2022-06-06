@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FHDImage</name>
+   <tag></tag>
+   <elementGuidId>c9622035-dc34-4c0f-bb90-8d4de8b755aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@src=&quot;https://shahid-static.s3.us-east-1.amazonaws.com/shahid-subscription-config/EV-PRD/HeaderIcons/FHD.png&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@src=&quot;https://shahid-static.s3.us-east-1.amazonaws.com/shahid-subscription-config/EV-PRD/HeaderIcons/FHD.png&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
